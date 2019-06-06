@@ -11,4 +11,4 @@ server:
   port: 11001
 
 logging:
-  file: ~/logs/apollo/100003171/apollo-configservice.log
+  file: ~/logs/apollo/apollo-configservice.log
